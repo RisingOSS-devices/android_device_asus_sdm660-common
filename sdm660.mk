@@ -366,7 +366,9 @@ PRODUCT_PACKAGES += \
 # Network
 PRODUCT_PACKAGES += \
     android.system.net.netd@1.1.vendor \
-    libnetutils.vendor
+    libnetutils.vendor \
+    libloc_net_iface \
+    libloc_net_iface.vendor
     
 PRODUCT_PACKAGES += \
     libimscamera_jni_libimscamera_jni_symlink64 \
