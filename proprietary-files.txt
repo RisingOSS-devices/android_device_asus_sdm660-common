@@ -261,6 +261,7 @@ vendor/lib64/liboemcrypto.so|7380e52e0ec82fef90a9aa1ea305e356d7cfef29
 # DRM-Widevine-HDCP - from helios-user 13 13-22-18.00-TG-U00-STD-HEL-04 62
 vendor/lib64/libhdcpsrm.so
 vendor/lib64/libmm-hdcpmgr.so
+vendor/lib64/libspl.so
 
 # DSP - from helios-user 13 13-22-18.00-TG-U00-STD-HEL-04 62
 vendor/bin/dspservice
