@@ -1,0 +1,7 @@
+[
+  {
+    "repository": "vendor_asus",
+    "target_path": "vendor/asus",
+    "branch": "fourteen"
+  }
+]
