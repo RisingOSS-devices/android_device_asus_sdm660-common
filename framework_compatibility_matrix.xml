@@ -53,14 +53,6 @@
         <instance>default</instance>
     </interface>
 </hal>
-<hal format="hidl" optional="true">
-    <name>android.hardware.light</name>
-    <version>2.0</version>
-    <interface>
-        <name>ILight</name>
-        <instance>default</instance>
-    </interface>
-</hal>
 <hal format="aidl" optional="true">
     <name>android.hardware.power</name>
     <version>3</version>
@@ -462,6 +454,14 @@
     <interface>
         <name>IRTPService</name>
         <instance>imsrtpservice</instance>
+    </interface>
+</hal>
+<hal format="aidl" optional="true">
+    <name>android.hardware.light</name>
+    <version>2</version>
+    <interface>
+        <name>ILights</name>
+        <instance>default</instance>
     </interface>
 </hal>
 </compatibility-matrix>
