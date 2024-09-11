@@ -101,9 +101,6 @@ persist.vendor.camera.perflock.enable=0
 persist.vendor.camera.dual.isp.sync=0
 
 # Display
-debug.cpurend.vsync=false
-debug.hwui.target_cpu_time_percent=30
-debug.hwui.use_hint_manager=true
 debug.hwui.skia_atrace_enabled=false
 debug.sf.enable_hwc_vds=1
 debug.sf.enable_transaction_tracing=false
