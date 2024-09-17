@@ -1,0 +1,12 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "SKetU-l/android_kernel_asus_sdm660-4.19",
+    "target_path": "kernel/asus/sdm660"
+  },
+  {
+    "remote":      "github",
+    "repository":  "android_vendor_asus",
+    "target_path": "vendor/asus"
+  }
+]
